@@ -14,16 +14,18 @@ Programming: c,Java & python scripts:.yaml, .groovy, Dockerfiles and compose, .t
 
 Find me around the web 🌎:
 
-💼 Connect with me on linkedin.com/in/katyayani-nallajerla-39262736
+💼 Connect with me on <a href="https://www.linkedin.com/in/katyayani-nallajerla-39262736">LinkedIn Profile</a>
 
-🌐 Badges:https://www.credly.com/users/katyayani-nallajerla
+🌐 Badges:<a href="https://www.credly.com/users/katyayani-nallajerla">Portfolio</a>
 
-Certifications:https://www.linkedin.com/in/katyayani-nallajerla-39262736/details/certifications/
+Certifications: <a href="https://www.linkedin.com/in/katyayani-nallajerla-39262736/details/certifications/">Licensed Certifications</a>
 
-📧 E-Mail: katyayani.nallajerla@gmail.com
+📧 E-Mail:<a href="katyayani.nallajerla@gmail.com">Contact</a>
 
 Technologies:
-Selenium maven Postman Appium Cucumber aws azure bash c docker git jenkins kubernetes linux mongodb mysql nginx  python 
+<i class="fab fa-html5"></i> <!-- HTML5 icon -->
+
+ maven Postman Appium Cucumber aws azure bash c docker git jenkins kubernetes linux mongodb mysql nginx  python 
 <!---
 KatyayaniNallajerla/KatyayaniNallajerla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
